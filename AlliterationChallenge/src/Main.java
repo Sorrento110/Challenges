@@ -37,6 +37,7 @@ public class Main
 
         AllitFinder alliteration = new AllitFinder();
         alliteration.findAlliteration(stopWordsVec, input);
+        System.out.println("Alliterations found and output.");
     }
 
 }
