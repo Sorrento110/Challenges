@@ -1,0 +1,2 @@
+a b left
+a c equal

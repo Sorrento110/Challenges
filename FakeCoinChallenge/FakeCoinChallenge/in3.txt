@@ -1,0 +1,3 @@
+a c equal
+a b equal
+c b left
